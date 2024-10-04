@@ -25,3 +25,8 @@ Lotes encadenados: si el título del cultivo es suficiente, una parte del cultiv
 
 ![02](https://github.com/user-attachments/assets/7946a611-846d-403f-806f-693ad5f25fd6)
 
+## Objetivo
+
+Debido al impacto en la sociedad de optimizar y mejorar el proceso, ya que fruto del mismo se desarrollarán mejores vacunas, se hace necesario disponer de una previsión de la concentración del producto en el antígeno final después de todas las fases.
+
+Dado lo anterior y partiendo de amplios datasets de ensayos históricos, te retamos a crear el mejor modelo de predicción de producción que pueda estimar el valor de concentración en el antígeno final tras la conclusión de todas las fases descritas el apartado anterior, y de esta forma Identificar los parámetros de proceso que tienen más impacto sobre el título del producto fabricado para mejoras futuras en el proceso.
