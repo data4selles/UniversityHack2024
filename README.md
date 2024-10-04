@@ -16,3 +16,12 @@ Fases del proceso productivo del antígeno:
 5. **Purificación adicional**: después de la centrifugación, se pueden realizar procesos de separación adicionales para eliminar cualquier contaminante y obtener un antígeno altamente puro y seguro para su uso en la vacuna.
 
 Cada tipo de antígeno seguirá un proceso distinto y adecuado a su naturaleza. En general, hay una gran diversidad de procesos productivos según el tipo de antígeno que se desea obtener (bacterias, virus, proteína recombinante, mRNA, VLP, …) por lo que es imposible describir resumidamente todos ellos. Esta diversidad afecta tanto a la expansión del vector biológico (bacteria, células de mamífero, …), lo que se conoce como “upstream”, como a las etapas del proceso de purificación o “downstream”. Una vez se obtiene el antígeno purificado, se puede utilizar para formular la vacuna una vez controlada su calidad según unos parámetros preestablecidos.
+
+Esquema ejemplo del escalado de volúmenes en un proceso productivo como el descrito anteriormente:
+
+![fases](https://github.com/user-attachments/assets/bbdc04a8-adce-47c1-90e8-bc4da9548bfa)
+
+Lotes encadenados: si el título del cultivo es suficiente, una parte del cultivo no se centrifuga, se deja en el mismo biorreactor, y se vuelve a introducir medio de cultivo para iniciar un nuevo cultivo. Este segundo cultivo es una nueva OF, donde los datos de las fases anteriores coincidirán con la OF inicial. Se puede repetir el proceso, mantener una parte del cultivo para una tercera OF. No puede haber una cuarta OF.
+
+![02](https://github.com/user-attachments/assets/7946a611-846d-403f-806f-693ad5f25fd6)
+
